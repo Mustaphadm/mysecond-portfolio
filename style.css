@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(202, 178, 178, 0.849);
+    scroll-behavior: smooth;
+}
+h1{
+    font-size: 2.5em;
+    font-style: normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+   
+}
+#About{
+    text-decoration: none;
+    font-size: 1.4em;
+    margin-left: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    padding-top: 5px;
+}
+img{
+    margin-left: 10px;
+}
+hr{
+    border: 2px solid black;
+}
+.headings{
+    margin-left: 10px;
+}
