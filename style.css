@@ -19,6 +19,8 @@ h1{
 }
 img{
     margin-left: 10px;
+    border: 1px solid;
+    border-radius: 10px;
 }
 hr{
     border: 2px solid black;
