@@ -10,9 +10,9 @@ h1{
    
 }
 #About{
-    text-decoration: none;
-    font-size: 1.4em;
-    margin-left: 40px;
+    text-decoration: underline;
+    font-size: 1.2em;
+    margin-left: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: brown;
     padding-top: 5px;
